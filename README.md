@@ -1,4 +1,9 @@
 # beautifulScraping
-Scraping election results with Beautiful Soup to make a map of just socialist candidates.
+Scraping [2016 Presidential Election results from Politico](https://www.politico.com/mapdata-2016/2016-election/results/map/president/) with Beautiful Soup.
 
-This project being replaced by [PrezPlayPro](https://github.com/jotasprout/prezPlayPro). I'll find other groovy uses for scraping.
+## Status
+Abandoned.
+
+Too many inconsistencies and invisible artifacts eventually stopped progress. Moved on to other data resources.
+
+This project eventually replaced by [PrezPlayPro](https://github.com/jotasprout/prezPlayPro). 
